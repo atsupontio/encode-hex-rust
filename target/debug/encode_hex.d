@@ -1,1 +1,1 @@
-/home/koyama/encode_hex/target/debug/encode_hex: /home/koyama/encode_hex/src/main.rs
+/home/koyama/encode-hex-rust/target/debug/encode_hex: /home/koyama/encode-hex-rust/src/main.rs
